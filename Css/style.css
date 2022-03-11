@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background: linear-gradient(to right,#00093c, #2d0b00);
+}
+section{
+    background:rgba(32, 37, 57);
+     margin-left: 130px;
+    height: 600px;
+    width: 80%;
+    border-radius: 45px;
+    margin-top: 40px;
+}
+.navbar{
+    list-style: none;
+    overflow: hidden;
+
+}
+.navbar li{
+    float:right;
+    text-align: right;
+    margin-right: 40px;
+    padding: 10px;
+}
+li a{
+    text-decoration: none;
+    color: #fff;
+}
+.web{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.con{
+    border-style: solid;
+    border-width: 1px;
+    border-color:#fff;
+    border-radius: 10px;
+}
+.new{
+    color: #fff;
+    margin-left: 10px;
+    font-size: 20px;
+}
+sup{
+    font-family: 'Franklin Gothic Medium';
+    color: #e0eff0;
+    font-size: 17px;
+}
+.fa-clone{
+    color: #eee2d1;
+}
+p{
+color:#868173;
+font-size:19px;
+margin-left: 12px;
+}
+.footer{
+    text-align: left;
+    float: left;
+    background-color:rgba(59, 58, 58, 0.514); height: 45px;
+    border-radius: 100px;
+    }
+    .footer ul{
+        display: inline-flex; 
+    }
+    li{
+        list-style: none;
+    
+
+    }
+    .footer li a{
+        color:#fff; 
+        font-size: 20px; 
+        float: left;
+    }
+    
+    .footer a:hover{
+        color:gray;
+        border-bottom: .2rem solid ;
+        transition: 0.2s;
+    }
+img{
+    border-radius: 12px;
+    height: 300px;
+    float: right;
+    margin-right:50px;
+}
+
+.fa-ubuntu{
+color:rgb(233, 71, 13);
+}
+
+
+    
+
+
+ 
+
+
+
+
